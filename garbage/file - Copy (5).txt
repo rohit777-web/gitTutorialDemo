@@ -1,0 +1,2 @@
+this is how we are going to track the files using the git 
+doing some changes in the file
